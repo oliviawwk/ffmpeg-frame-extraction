@@ -1,0 +1,22 @@
+{
+  "name": "customindz-ffmpeg-processor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.463.0",
+    "axios": "^0.18.0",
+    "baidu-aip-sdk": "^2.3.9",
+    "express": "^4.17.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^8.0.1",
+    "request": "^2.88.0",
+    "sharp": "^0.22.1",
+    "socket.io": "^2.2.0"
+  }
+}
